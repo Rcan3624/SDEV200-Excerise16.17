@@ -15,6 +15,9 @@ import javafx.geometry.Pos;
 import javafx.geometry.Insets;
 
 public class ColorSelect extends Application {
+
+    // Apologies, I had to abandon this exercise as my ATM Project is of the utmost importance. // Thank Ivy Tech's 8-Week class policy.
+
 // TODO Seek out the Oracle(Pun intended) James Gosling and learn the art of Java Programming
 
     // The slider bar originally in the scrollbar demo has been modified for allowing up to four values which will be for the colors
